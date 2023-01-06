@@ -27,6 +27,10 @@
 
 ###
 
-<p align="left">🌎 Argentina  <br>📚 Software engineering student<br><br>I have worked on several programming projects, both personal and university, and contributed to borg-backup, an open source project.<br><br>📌Pull requests:<br>https://github.com/borgbackup/borg/pull/6991<br>https://github.com/borgbackup/borg/pull/7121<br><br>💻 Projects:<br>1. Torrent client: Basic implementation of the BitTorrent protocol. I used asyncio and threads to make concurrent I/O operations.<br>2. Coding bounties website: A website that allows a user to create a programming task with a reward. Created using python and django. It also features a rest API programmed with django-rest.<br>3. Cinema: A microservices architectures to manage a cinema. I created it using java and spring-boot.</p>
-
-###
+<p align="left">🌎 Argentina  <br>📚 Software engineering student<br><br>I have worked on several programming projects, both personal and university, and contributed to borg-backup, an open source project.<br><br>📌Pull requests:<br>https://github.com/borgbackup/borg/pull/6991<br>https://github.com/borgbackup/borg/pull/7121<br><br>💻 Projects:
+<br>
+https://github.com/francoo98/bounties
+<br>
+https://github.com/francoo98/torrent
+<br>
+https://github.com/francoo98/cine-microservicios
