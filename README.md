@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">🌎 Argentina  <br>📚 Software engineering student<br><br>I have worked on several programming projects, both personal and university, and contributed to borg-backup, an open source project.<br><br>📌Pull requests:<br>https://github.com/borgbackup/borg/pull/6991<br>https://github.com/borgbackup/borg/pull/7121<br><br>💻 Projects:
+<p align="left">🌎 Argentina  <br>📚 Software engineer<br><br>I have worked on several programming projects, both personal and university, and contributed to borg-backup, an open source project.<br><br>📌Pull requests:<br>https://github.com/borgbackup/borg/pull/6991<br>https://github.com/borgbackup/borg/pull/7121<br><br>💻 Projects:
 <br>
 https://github.com/francoo98/bounties
 <br>
