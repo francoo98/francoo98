@@ -32,7 +32,7 @@
 <h2 align="left">Experience</h2>
 💼 Work experience:
 <br>
-1 year as a full-stack developer at ITC, an internet service provider. I worked on the development of a website to document the fiber optic network. Additionally, I worked on long-running systems that required updates to meet new requirements.
+1 year as a full-stack developer at ITC, an internet service provider. I worked on the development of a website to document the fiber optic network. Additionally, I worked on legacy systems that required updates to meet new requirements in python 2.7 MySQL 5 and Flask 0.11.
 <br><br>📌Pull requests:<br>https://github.com/borgbackup/borg/pull/6991<br>https://github.com/borgbackup/borg/pull/7121<br><br>💻 Projects:
 <br>
 https://github.com/francoo98/bounties
