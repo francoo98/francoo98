@@ -43,7 +43,7 @@
 <br>
 <br>💻 Projects:
 <br>
-https://redact-pdf-web.vercel.app/
+https://github.com/francoo98/redact-pdf-web | https://redact-pdf-web.vercel.app/
 <br>
 https://github.com/francoo98/bounties
 <br>
